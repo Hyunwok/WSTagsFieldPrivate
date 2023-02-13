@@ -204,7 +204,11 @@
 		B6716E1319430253526F5CAF0066B16C /* WSTagsFieldPrivate */ = {
 			isa = PBXGroup;
 			children = (
-				D6C78635299A94B100A068EC /* Source */,
+				D6C78636299A94B100A068EC /* Constants.swift */,
+				D6C78637299A94B100A068EC /* WSTag.swift */,
+				D6C78638299A94B100A068EC /* WSTagsField.swift */,
+				D6C78639299A94B100A068EC /* WSTagView.swift */,
+				D6C7863A299A94B100A068EC /* BackspaceDetectingTextField.swift */,
 				22CBCFFC72EB407ABFBDDAC475D71A53 /* Pod */,
 				29D04033F0EBF3D48424F702677A8DE2 /* Support Files */,
 			);
@@ -229,18 +233,6 @@
 				578452D2E740E91742655AC8F1636D1F /* iOS */,
 			);
 			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		D6C78635299A94B100A068EC /* Source */ = {
-			isa = PBXGroup;
-			children = (
-				D6C78636299A94B100A068EC /* Constants.swift */,
-				D6C78637299A94B100A068EC /* WSTag.swift */,
-				D6C78638299A94B100A068EC /* WSTagsField.swift */,
-				D6C78639299A94B100A068EC /* WSTagView.swift */,
-				D6C7863A299A94B100A068EC /* BackspaceDetectingTextField.swift */,
-			);
-			path = Source;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

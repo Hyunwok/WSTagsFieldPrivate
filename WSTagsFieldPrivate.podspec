@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'WSTagsFieldPrivate'
-  s.version          = '0.2.0'
+  s.version          = '1.0.0'
   s.summary          = 'Private Pod for WSTagsField'
 
 # This description is used to generate tags and improve search results.
@@ -30,7 +30,7 @@ Add Variable for Tag Wheather ADD or NOT
 
   s.ios.deployment_target = '11.0'
 
-  s.source_files = 'WSTagsFieldPrivate/Source/*'
+  s.source_files = 'WSTagsFieldPrivate/*.{h,swift}'
   s.swift_version = '5.0'
   
   # s.resource_bundles = {
