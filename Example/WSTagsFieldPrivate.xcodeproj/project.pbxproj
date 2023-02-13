@@ -28,7 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0CAAD2C97849F2EB5A403AD8 /* WSTagsFieldPrivate.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = WSTagsFieldPrivate.podspec; path = ../WSTagsFieldPrivate.podspec; sourceTree = "<group>"; };
+		0CAAD2C97849F2EB5A403AD8 /* WSTagsFieldPrivate.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = WSTagsFieldPrivate.podspec; path = ../WSTagsFieldPrivate.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		1CA8EF517C0E53BE4EAC31AB /* Pods_WSTagsFieldPrivate_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_WSTagsFieldPrivate_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5F2E77D3A9455B98237B98EB /* Pods-WSTagsFieldPrivate_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WSTagsFieldPrivate_Tests.debug.xcconfig"; path = "Target Support Files/Pods-WSTagsFieldPrivate_Tests/Pods-WSTagsFieldPrivate_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* WSTagsFieldPrivate_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WSTagsFieldPrivate_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -42,8 +42,8 @@
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		6D7619ED6C08698D22BB2CC3 /* Pods_WSTagsFieldPrivate_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_WSTagsFieldPrivate_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		82B2DF984443450A3B6926CA /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		87B0A751AAF94EA98D86676E /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		82B2DF984443450A3B6926CA /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		87B0A751AAF94EA98D86676E /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		9E14455600508E42F035C225 /* Pods-WSTagsFieldPrivate_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WSTagsFieldPrivate_Example.debug.xcconfig"; path = "Target Support Files/Pods-WSTagsFieldPrivate_Example/Pods-WSTagsFieldPrivate_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		D2298341C6193C8AAB89749F /* Pods-WSTagsFieldPrivate_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WSTagsFieldPrivate_Tests.release.xcconfig"; path = "Target Support Files/Pods-WSTagsFieldPrivate_Tests/Pods-WSTagsFieldPrivate_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		F87DCFCE27E13A94977274C5 /* Pods-WSTagsFieldPrivate_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WSTagsFieldPrivate_Example.release.xcconfig"; path = "Target Support Files/Pods-WSTagsFieldPrivate_Example/Pods-WSTagsFieldPrivate_Example.release.xcconfig"; sourceTree = "<group>"; };
@@ -147,7 +147,6 @@
 				5F2E77D3A9455B98237B98EB /* Pods-WSTagsFieldPrivate_Tests.debug.xcconfig */,
 				D2298341C6193C8AAB89749F /* Pods-WSTagsFieldPrivate_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -227,6 +226,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
