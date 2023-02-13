@@ -1,0 +1,16 @@
+PODS:
+  - WSTagsFieldPrivate (0.1.0)
+
+DEPENDENCIES:
+  - WSTagsFieldPrivate (from `../`)
+
+EXTERNAL SOURCES:
+  WSTagsFieldPrivate:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WSTagsFieldPrivate: 11c7cdec295577f115183d682ecac4c638ec4b42
+
+PODFILE CHECKSUM: cc699878cb16ec63a7e4336ca4931605707dd7ad
+
+COCOAPODS: 1.11.3
