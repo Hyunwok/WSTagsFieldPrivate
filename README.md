@@ -27,6 +27,3 @@ Hyunwok, hjhsht@icloud.com
 ## License
 
 WSTagsFieldPrivate is available under the MIT license. See the LICENSE file for more info.
-# WSTagsFieldPrivate
-# WSTagsFieldPrivate
-# WSTagsFieldPrivate
